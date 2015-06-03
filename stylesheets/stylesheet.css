@@ -57,6 +57,11 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
+  text-shadow:
+  -1px -1px 0 #000,  
+   1px -1px 0 #000,
+  -1px  1px 0 #000,
+   1px  1px 0 #000;
   background-image: url("/Minecraft_OSI3/images/header.png");
   background-position: calc(50%) calc(50% - 25px); }
 
