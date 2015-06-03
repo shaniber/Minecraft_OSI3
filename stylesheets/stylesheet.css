@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: url("/Minecraft_OSI3/images/header.png");
-  background-position: calc(50%) calc(50%); }
+  background-position: calc(50%) calc(50% - 25px); }
 
 @media screen and (min-width: 64em) {
   .page-header {
